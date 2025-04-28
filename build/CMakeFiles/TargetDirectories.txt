@@ -1,0 +1,3 @@
+/Users/noahvickerson/Desktop/nvim/shaderGraphics/build/CMakeFiles/shaderGraphics.dir
+/Users/noahvickerson/Desktop/nvim/shaderGraphics/build/CMakeFiles/edit_cache.dir
+/Users/noahvickerson/Desktop/nvim/shaderGraphics/build/CMakeFiles/rebuild_cache.dir
