@@ -49,10 +49,11 @@ struct Vertex {
 };
 
 struct UniformBufferObject {
-    alignas(16) glm::mat4 model;
-    alignas(16) glm::mat4 view;
-    alignas(16) glm::mat4 proj;
+    alignas(16) float numLayers;
+    alignas(16) glm::vec2 frequency;
+    alignas(16) glm::mat3 rotation;
 };
+
 
 const std::vector<Vertex> vertices = {
     {{-0.5f, -0.5f}, {1.0f, 0.0f, 0.0f}},
